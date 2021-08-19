@@ -9,7 +9,7 @@ describe('twoFer()', () => {
     expect(twoFer('Alice')).toEqual('One for Alice, one for me.');
   });
 
- nptest('another name given', () => {
+ test('another name given', () => {
     expect(twoFer('Bob')).toEqual('One for Bob, one for me.');
   });
 });
