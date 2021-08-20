@@ -2,7 +2,7 @@
 // This is only a SKELETON file for the 'Leap' exercise. It's been provided as a
 // convenience to get you started writing code faster.
 //
-// Se o ano não for divisível por quatro e divisível por 100; e isso tudo não divisível por 400 -> retorna TRUE.
+// Se o ano for divisível por quatro e não divisível por 100; e isso tudo divisível por 400 -> retorna TRUE.
 // O resto vai retornar FALSE
 
 
